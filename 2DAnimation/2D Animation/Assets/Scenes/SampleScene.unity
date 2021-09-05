@@ -363,8 +363,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CategoryHash: 0
-  m_labelHash: 0
+  m_CategoryHash: 3.8230425e+35
+  m_labelHash: -1.8693356e+12
 --- !u!114 &162409362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -847,7 +847,7 @@ GameObject:
   - component: {fileID: 337970490}
   - component: {fileID: 337970489}
   m_Layer: 5
-  m_Name: Body (1)
+  m_Name: Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1561,10 +1561,14 @@ MonoBehaviour:
   - button: {fileID: 607525745}
     spriteResolver:
     - {fileID: 1309461841}
+    - {fileID: 1193173184}
+    - {fileID: 1818667095}
+    - {fileID: 1802646147}
     id: 0
   - button: {fileID: 337970489}
     spriteResolver:
-    - {fileID: 1818667095}
+    - {fileID: 162409361}
+    - {fileID: 529214096}
     id: 0
   labels:
   - A
@@ -1616,8 +1620,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CategoryHash: 0
-  m_labelHash: 0
+  m_CategoryHash: -1.6950144e-16
+  m_labelHash: -1.8693356e+12
 --- !u!114 &529214097
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2836,7 +2840,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Body
+  m_Text: 'Legs
+
+'
 --- !u!222 &1013156785
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3207,8 +3213,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CategoryHash: 0
-  m_labelHash: 0
+  m_CategoryHash: -3.257802e-39
+  m_labelHash: -1.8693356e+12
 --- !u!114 &1193173185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3861,8 +3867,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CategoryHash: 0
-  m_labelHash: 0
+  m_CategoryHash: 421033.12
+  m_labelHash: -1.8693356e+12
 --- !u!114 &1802646148
 MonoBehaviour:
   m_ObjectHideFlags: 0

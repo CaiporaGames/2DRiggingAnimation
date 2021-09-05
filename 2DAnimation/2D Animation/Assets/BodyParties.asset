@@ -40,3 +40,39 @@ MonoBehaviour:
     - m_Name: B
       m_Hash: 1255198513
       m_Sprite: {fileID: 5603819592111858644, guid: 8a446c06440e67a4588cb482c56e3c52, type: 3}
+  - m_Name: R_Arm
+    m_Hash: 1221432612
+    m_CategoryList:
+    - m_Name: A
+      m_Hash: -740712821
+      m_Sprite: {fileID: 2607448635259360599, guid: c548bac4135e4f841a8bcd07fb9e72c8, type: 3}
+    - m_Name: B
+      m_Hash: 1255198513
+      m_Sprite: {fileID: 3000956789926340027, guid: 8a446c06440e67a4588cb482c56e3c52, type: 3}
+  - m_Name: L_Leg
+    m_Hash: 2056471068
+    m_CategoryList:
+    - m_Name: A
+      m_Hash: -740712821
+      m_Sprite: {fileID: -5155056969189287337, guid: c548bac4135e4f841a8bcd07fb9e72c8, type: 3}
+    - m_Name: B
+      m_Hash: 1255198513
+      m_Sprite: {fileID: -6180694436044471854, guid: 8a446c06440e67a4588cb482c56e3c52, type: 3}
+  - m_Name: R_Leg
+    m_Hash: -1522308097
+    m_CategoryList:
+    - m_Name: A
+      m_Hash: -740712821
+      m_Sprite: {fileID: 5174246239268279535, guid: c548bac4135e4f841a8bcd07fb9e72c8, type: 3}
+    - m_Name: B
+      m_Hash: 1255198513
+      m_Sprite: {fileID: -6180694436044471854, guid: 8a446c06440e67a4588cb482c56e3c52, type: 3}
+  - m_Name: Neck
+    m_Hash: -2145158803
+    m_CategoryList:
+    - m_Name: A
+      m_Hash: -740712821
+      m_Sprite: {fileID: -7972949470201634645, guid: c548bac4135e4f841a8bcd07fb9e72c8, type: 3}
+    - m_Name: B
+      m_Hash: 1255198513
+      m_Sprite: {fileID: 2993682416424017150, guid: 8a446c06440e67a4588cb482c56e3c52, type: 3}
